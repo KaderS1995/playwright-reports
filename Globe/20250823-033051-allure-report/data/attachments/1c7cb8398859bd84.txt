@@ -1,0 +1,13 @@
+Opening a new browser page and performing dev verification...
+Video is being recorded for page: about:blank
+Navigating to URL: https://dev.paction.cloudpublish.co.uk/
+Current page URL: https://dev.paction.cloudpublish.co.uk/dev-auth
+Login form visible: true
+Filling in login form...
+Books successfully added to favorites
+Removing from Favorites
+Books removed successfully from Favourites
+Articles successfully added to favorites
+Removing from Favorites
+Articles removed successfully from Favourites
+Closing the browser page...
