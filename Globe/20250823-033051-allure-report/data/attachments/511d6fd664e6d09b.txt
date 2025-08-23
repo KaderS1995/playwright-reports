@@ -1,4 +1,0 @@
-Navigating to URL: https://staging.globe.cloudpublish.co.uk
-Current page URL: https://staging.globe.cloudpublish.co.uk/dev-auth
-Login form visible: true
-Filling in login form...
