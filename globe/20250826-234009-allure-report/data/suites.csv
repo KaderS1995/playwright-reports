@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Clean up by closing the browser page.","46508","Navigation Bar Test","chromium","Tue Aug 26 23:17:08 EEST 2025","passed","Tue Aug 26 23:17:55 EEST 2025","STAGING Guest user front-end test","","",""
+"Clean up by closing the browser page.","18654","Book Details Page Test","chromium","Tue Aug 26 23:39:46 EEST 2025","passed","Tue Aug 26 23:40:05 EEST 2025","STAGING Guest user front-end test","","",""
+"Clean up by closing the browser page.","24086","Homepage Layout Test","chromium","Tue Aug 26 00:23:03 EEST 2025","failed","Tue Aug 26 00:23:27 EEST 2025","STAGING Guest user front-end test","","",""
